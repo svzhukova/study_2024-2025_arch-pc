@@ -55,7 +55,7 @@ biblatexoptions:
   - citestyle=gost-numeric
 ## Pandoc-crossref LaTeX customization
 figureTitle: "Рис."
-tableTitle: "Таблица"
+tableTitle: "таблица"
 listingTitle: "Листинг"
 lofTitle: "Список иллюстраций"
 lotTitle: "Список таблиц"

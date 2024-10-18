@@ -67,6 +67,19 @@ header-includes:
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
+
+# Содержание
+
+1 Цель работы
+
+2 Задание 
+
+3 Выполнение лабораторной работы
+
+4 Выводы
+
+
+
 # Цель работы
 
 Освоить процедуры компиляции и сборки программ, написанных на ассемблере NASM.
@@ -232,6 +245,8 @@ header-includes:
 
 
 ![Заружаем файлы](image/419.png){#fie:019 width=70%}
+
+
 
 
 

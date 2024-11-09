@@ -1,7 +1,7 @@
 ---
 ## Front matter
-title: "Отчет по лабораторной работе № 5"
-subtitle: "Основы работы с Midnight Commander (mc). Структура программы на языке ассемблера NASM. Системные вызовы в ОС GNU Linux"
+title: "Отчет по абораторной работе №5"
+subtitle: "Основы работы с Midnight Commander (mc). Структура программы на языке ассемблера NASM. Системные вызовы в OC GNU Linux"
 author: "Жукова София Викторовна"
 
 ## Generic otions

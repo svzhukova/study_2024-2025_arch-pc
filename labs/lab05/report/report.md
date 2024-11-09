@@ -1,4 +1,5 @@
 ---
+\usepackage[utf8]{inputenc}
 ## Front matter
 title: "Отчет по лабораторной работе № 5"
 subtitle: "Основы работы с Midnight Commander (mc). Структура программы на языке ассемблера NASM. Системные вызовы в ОС GNU Linux"

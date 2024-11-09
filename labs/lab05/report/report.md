@@ -6,7 +6,7 @@ author: "Жукова София Викторовна"
 
 ## Generic otions
 lang: ru-RU
-toc-title: "Содержание"
+
 
 ## Bibliography
 bibliography: bib/cite.bib
